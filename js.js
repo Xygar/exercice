@@ -1,0 +1,1 @@
+alert("Ceci n'est pas une alert")
