@@ -1,0 +1,1 @@
+Un fichier html et un fichier javascript comme on en voit partout !
